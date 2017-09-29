@@ -38,6 +38,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //TODO: add content description for buttonTip15 button
         String descriptionTwentyPercent = getResources().getString(R.string.description_20_percent);
         buttonTip20.setContentDescription(descriptionTwentyPercent);
+
+        String descriptionFifteenPercent = getString(R.string.description_15_percent);
+        buttonTip15.setContentDescription(descriptionFifteenPercent);
     }
 
     @Override

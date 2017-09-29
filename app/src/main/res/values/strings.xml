@@ -7,4 +7,7 @@
 
     <!--TODO: add content description string for the rest of the views on activity_main.xml-->
     <string name="description_20_percent">20 percent button</string>
+    <string name="description_15_percent">15 percent button</string>
+    <string name="description_bill_amount">input bill amount value</string>
+    <string name="description_total_amount">total amount value</string>
 </resources>
